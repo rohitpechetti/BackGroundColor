@@ -1,0 +1,34 @@
+.con{
+    height: 70vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   gap:10px;
+
+}
+.but,.but1,.but2,.but3{
+    /* padding:10px; */
+    height: 10vh;
+    width: 10vh;
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+}
+.but{
+    color: white;
+    background-color: pink;
+}
+.but1{
+    color: white;
+    background-color: blue;
+}
+.but2{
+    color: white;
+    background-color: black;
+}
+.but3{
+    color: white;
+    background-color: green;
+
+}
